@@ -1,8 +1,8 @@
 - 👋 Hi, I’m lathiya prince
-- 👀 I'm eager to write efficient code and expand my language skills in Java, Python, PHP, and Flutter
+- 👀 I'm eager to write efficient code and expand my language skills in Java and Python.
 - 🌱 I'm diving into Java and its frameworks, particularly Spring and Spring Boot, for my learning journey.
 - 💞️ I'm seeking collaboration opportunities in software development projects, especially those involving Java, spring, spring boot.
-- 📫You can reach me via email at lathiyaprince63@gmail.com or connect with me on LinkedIn: `Lathiya Paresh`.
+- 📫You can reach me via email at lathiyaprince63@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/lathiyaparesh.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I've Completed 2 Project in Java Spring Boot!
 - 👋 Hi, I’m Lathiya Prince. I'm passionate about writing efficient code and expanding my language skills in Java, Python, PHP, and Flutter.
