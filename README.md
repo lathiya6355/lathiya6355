@@ -1,4 +1,4 @@
-- 👋 Hi, I’m lathiya prince
+- 👋 Hi, I’m lathiya paresh
 - 👀 I'm eager to write efficient code and expand my language skills in Java and Python.
 - 🌱 I'm diving into Java and its frameworks, particularly Spring and Spring Boot, for my learning journey.
 - 💞️ I'm seeking collaboration opportunities in software development projects, especially those involving Java, spring, spring boot.
